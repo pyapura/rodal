@@ -8,13 +8,9 @@ Rodal es un **ambiente** desarrollado para cumplir la interface común especific
 [gym]: https://gym.openai.com/
 [openai]: https://openai.com/
 
-Text attributes _italic_, **bold**, `monospace`.
-
-Horizontal rule:
-
 ---
 
-# Instalación
+## Instalación
 
 Una vez completada la instalación, y antes de crear una instancia del ambiente con la función `make()`, es necesario importar la libreria gym y el ambiente propiamente dicho:
 
@@ -23,4 +19,3 @@ import gym
 import rodal
 amb = gym.make('rodal-v0')
 ```
-
