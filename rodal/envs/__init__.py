@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-from rodal.envs.ptdiscreto6x5 import PtDiscreto6x5
+from rodal.envs.rodal import PtDiscreto6x5
